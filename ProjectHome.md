@@ -1,0 +1,1 @@
+My first game, made after an intense two weeks of learning programming. Made in Python 3.1 with pygame. Big thanks to Al Sweigart for writing the book "Invent Your Own Computer Games With Python" (http://inventwithpython.com/)
